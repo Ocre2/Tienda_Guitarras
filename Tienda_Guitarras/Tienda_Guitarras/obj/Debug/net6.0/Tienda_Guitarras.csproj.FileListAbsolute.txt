@@ -1,0 +1,15 @@
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\obj\Debug\net6.0\Tienda_Guitarras.csproj.AssemblyReference.cache
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\obj\Debug\net6.0\Tienda_Guitarras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\obj\Debug\net6.0\Tienda_Guitarras.AssemblyInfoInputs.cache
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\obj\Debug\net6.0\Tienda_Guitarras.AssemblyInfo.cs
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\obj\Debug\net6.0\Tienda_Guitarras.csproj.CoreCompileInputs.cache
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\bin\Debug\net6.0\Tienda_Guitarras.exe
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\bin\Debug\net6.0\Tienda_Guitarras.deps.json
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\bin\Debug\net6.0\Tienda_Guitarras.runtimeconfig.json
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\bin\Debug\net6.0\Tienda_Guitarras.dll
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\bin\Debug\net6.0\Tienda_Guitarras.pdb
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\obj\Debug\net6.0\Tienda_Guitarras.dll
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\obj\Debug\net6.0\refint\Tienda_Guitarras.dll
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\obj\Debug\net6.0\Tienda_Guitarras.pdb
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\obj\Debug\net6.0\Tienda_Guitarras.genruntimeconfig.cache
+C:\Users\anmof\OneDrive\Desktop\C#\Pruebas\Tienda_Guitarras\Tienda_Guitarras\obj\Debug\net6.0\ref\Tienda_Guitarras.dll
